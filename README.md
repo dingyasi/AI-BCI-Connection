@@ -96,7 +96,7 @@
 |------|------|
 | **FastAPI** | Web框架 |
 | **LangChain** | LLM集成 |
-| **OpenAI API** | AI问答 |
+| **DeepSeek API** | AI问答 |
 
 ### 算法核心
 
